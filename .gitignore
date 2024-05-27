@@ -1,2 +1,4 @@
 /.env
 /db_directory/groceryshopdb.sqbpro
+/db_directory/groceryshopdb.sqlite3
+
